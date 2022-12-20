@@ -46,7 +46,10 @@ insight card will have the following components.
 
 ### Tech
 ---
-frontend -> React.js
-backend -> Node.js
-database -> mongodb (optional) free to use any db
-chart librabry -> Echarts (optional)  free to use any charting library
+**required tech for this assignment**
+- frontend -> React.js
+- backend -> Node.js
+- database -> mongodb (optional) free to use any db
+- chart librabry -> Echarts (optional) free to use any charting library
+- testing -> Jest (optional) free to use any testing library
+- state management -> Reflux
