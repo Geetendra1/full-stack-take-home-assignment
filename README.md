@@ -9,6 +9,7 @@ You will build a piece of our insights feature by creating the insight card scre
 ### Development Instructions
 ---
 **Evaluation**
+
 Be aware that Origin will mainly take into consideration the following evaluation criteria:
 - How close your page is to the mockups, both on mobile & desktop;
 - How clean and organized your code is. We are looking for clear separation of back-end and front-end;
@@ -38,6 +39,7 @@ image will be here...
 - On Submit, validate the user and as soon as user gets logged in, user will redirect to [host]/organizations/quantive page where you will show your insight card screen.
 
 **insight card**
+
 insight card will have the following components.
 - insight card heading with the source logo and breadcumb like structure i.e source_name/stream_name/kpi_name along with that, the severity i.e [high, medium, low].
 - insight card heading will also have the watchers components. suppose user1 was the owner of an insight and user2 (another logged in user) clicked that insight card, user2 will be added as the watcher for that insight and will be visible in the watchers component.
