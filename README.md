@@ -40,6 +40,7 @@ You can use third-party libraries in case you want to.
 - On Submit, validate the user and as soon as user gets logged in, user will redirect to [host]/organizations/quantive page where you will show your insight card screen.
 
 **insight card**
+
 create list of atleast 4-5 insight cards.  
 insight card will have the following components.
 - **insight card heading** - This will have the source logo and breadcumb like structure i.e source_name/stream_name/kpi_name along with that, the severity i.e [high, medium, low]. It also have the watchers components. suppose user1 was the owner of an insight and user2 (another logged in user) clicked that insight card, user2 will be added as the watcher for that insight and will be visible in the watchers component.
