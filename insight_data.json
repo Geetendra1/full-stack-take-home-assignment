@@ -6,9 +6,9 @@
         "organizationId": "256d856c1f604fe0a3be834ecef96f79",
         "startTime": "2022-12-09T00:00:00+00:00",
         "endTime": "2022-12-12T00:00:00+00:00",
-        "incidentStatus": "close",
         "measure": "CostUSD",
         "score": 23,
+        "severity":"Medium",
         "feedback": "NULL",
         "stats": {
             "id": "2f5224c072a547ad9a04dd941b3b026d",
@@ -18,43 +18,39 @@
                 "topDrivers": [
                     [
                         [
-                            "ResourceGroupName=gtmhub-builds-nodes-rg",
-                            "SubscriptionName=Visual Studio Enterprise: BizSpark"
+                          "order_store_id=007"
                         ],
-                        341.04060007988835,
                         {
-                            "change": -102.25982856198486,
+                            "change": 999,
                             "currentValue": 12.436819401560898,
                             "previousValue": 114.69664796354576,
-                            "absoluteChange": -89.15677169090965,
-                            "effectiveChange": 43.97738895552714
+                            "absoluteChange": -45,
+                            "effectiveChange": 45
                         }
                     ],
                     [
                         [
-                            "ResourceGroupName=gts-ben-nevis-static-rg",
-                            "SubscriptionName=Visual Studio Enterprise: BizSpark"
+                            "order_store_id=008"
                         ],
-                        4.111152758165017,
                         {
-                            "change": -0.9446065592093899,
+                            "change": 999,
                             "currentValue": 0.037053231577801,
                             "previousValue": 0.9816597907871909,
-                            "absoluteChange": -96.2254508205854,
-                            "effectiveChange": 0.40623312837956904
+                            "absoluteChange": -45,
+                            "effectiveChange": 45
                         }
                     ]
                 ]
             },
-            "rcaStartTime": "2022-12-08T00:00:00Z",
-            "rcaEndTime": "2022-12-10T00:00:00Z",
-            "previousValue": 1624.1998186431247,
-            "currentValue": 1391.6716240625033,
-            "absoluteChange": "-14.32",
+            "rcaStartTime": "2022-10-20T00:00:00Z",
+            "rcaEndTime": "2022-10-22T00:00:00Z",
+            "previousValue": 60000,
+            "currentValue": 30000,
+            "absoluteChange": "50%",
             "incident": "c5b6421d9be54de5be2d99d11a71d60f"
         },
-        "header": "Azure/Mayank/CostUSD",
-        "content": "CostUSD decreased by 14.32 % from 1624.2 to 1391.67 during December 08, 2022 00:00 to December 10, 2022 00:00 for ServiceName, ResourceType, ResourceLocation, SubscriptionName, ResourceGroupName with anomaly score of 23.23.",
+        "header": "Google Analytics V4_GTMHUB/Sales/CostUSD",
+        "content": "CostUSD decreased by 50% from 60k to 30k during Octuber 20, 2022 00:00 to Octuber 22, 2022 00:00 for some_dimension with anomaly score of 30.",
         "viewers": [
             {
                 "id": "74a09ff10af447ed93cf650af55a2374",

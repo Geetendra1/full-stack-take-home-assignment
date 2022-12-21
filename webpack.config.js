@@ -69,7 +69,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: path.join(__dirname, 'static', 'index.ejs'),
-      title: 'Cliff Frontend Skeleton',
+      title: 'quantive-signal assignment boilerplate',
     }),
     new ForkTsCheckerWebpackPlugin({
       typescript: {
