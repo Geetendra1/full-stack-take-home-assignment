@@ -59,7 +59,7 @@ insight card will have the following components.
 - testing -> Jest (optional) free to use any testing library
 - state management -> Reflux
 
-## Delivery Instructions
+### Delivery Instructions
 ---
 Follow the below instructions for your submission :
 - Please send your submission to this form:[link](https://airtable.com/shrqTib6f8G15e0UE)
