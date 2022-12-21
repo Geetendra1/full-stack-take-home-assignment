@@ -23,11 +23,11 @@ You can use third-party libraries in case you want to.
 ### Assets
 ---
 **Desktop view**
-image will be here...
+![alt text](https://cliff-uploads.s3.amazonaws.com/image+(2).png
+"Logo Title Text 1")
 
 
-**Mobile view**
-image will be here...
+
 
 ### What you have to make
 ---
