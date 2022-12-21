@@ -40,14 +40,13 @@ You can use third-party libraries in case you want to.
 - On Submit, validate the user and as soon as user gets logged in, user will redirect to [host]/organizations/quantive page where you will show your insight card screen.
 
 **insight card**
-
+create list of atleast 4-5 insight cards.  
 insight card will have the following components.
-- insight card heading with the source logo and breadcumb like structure i.e source_name/stream_name/kpi_name along with that, the severity i.e [high, medium, low].
-- insight card heading will also have the watchers components. suppose user1 was the owner of an insight and user2 (another logged in user) clicked that insight card, user2 will be added as the watcher for that insight and will be visible in the watchers component.
-- insight card have the table with the top-drivers (data is in notion). Show first 2 top drivers.
-- insight card also have the line graph. You can use any javascript chart library to create it, (data is in notion)
-- insight card have the save button, On submit save the insight for that user. 
-- create a filter based on siverity and saved insights.
+- **insight card heading** - This will have the source logo and breadcumb like structure i.e source_name/stream_name/kpi_name along with that, the severity i.e [high, medium, low]. It also have the watchers components. suppose user1 was the owner of an insight and user2 (another logged in user) clicked that insight card, user2 will be added as the watcher for that insight and will be visible in the watchers component.
+- **insight card table** - insight card have the table with the top-drivers. Show first 2 top drivers.
+- **insight card line graph** insight card also have the line graph. You can use any javascript chart library to create it.
+- **save button** insight card have the save button, On submit save the insight for that user. 
+- **filter** create a filter based for severity and saved insights
 
 ### Tech
 ---
