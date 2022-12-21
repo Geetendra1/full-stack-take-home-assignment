@@ -58,6 +58,20 @@ insight card will have the following components.
 - testing -> Jest (optional) free to use any testing library
 - state management -> Reflux
 
+## Delivery Instructions
+---
+Follow the below instructions for your submission :
+- Please send your submission to this form:[link](https://airtable.com/shrqTib6f8G15e0UE)
+- Reply to the email with the assignment/link/attachments/ submission.
+- Create a private repository on Github and add the following accounts as collaborators :
+    1. aayush.jain@greendeck.co
+    2. geetendra@greendeck.co
+    3. rohit.sharma@greendeck.co
+- Please ensure that your repository has a ```README.md``` which lists the exact steps required to run your application.
+- Send an email to ```careers@greendeck.co``` with the subject "Full-stack assignment submission" (do not use any other subject) and mention the following details in your email:
+    1. A link to the application's GitHub repository (make sure you've added the collaborators mentioned previously).
+    2. The hosted URL of your web-app (if hosted on a platform such as Heroku).
+
 
 ### Usage
 ---
@@ -75,3 +89,10 @@ You can then start the application running:
 yarn start
 ```
 That's it. Just Access http://localhost:6001 in your browser.
+
+**Again, please make sure your repository on GitHub is private.**
+
+
+We hope you have fun with the assignment! In case of any questions or queries, feel free to shoot us an email at careers@greendeck.co. We are expecting a solution submission within seven days. While we're interested in the complete implementation of the task, feel free to submit your solution even if you feel if it's not up to the mark; we're as interested in your method of solving the problem as we're interested in the end result itself.
+
+Good luck!
